@@ -1,12 +1,18 @@
 {
   "name": "packagejson-loader",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": {
     "name": "stone"
   },
   "description": "npm package.json loader for webpack",
   "dependencies": {
   },
+  "keywords": [
+    "vue-router",
+    "vue",
+    "webpack",
+    "package.json"
+  ],
   "devDependencies": {
 
   },
