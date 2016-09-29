@@ -5,6 +5,7 @@
 这个loader将帮你把这些package.json读取出来并作为一个数组输出。
 
 我主要是利用这些做一个前端的路由列表，可以很方便的加载这些子项目。
+用在前端组件库的开发中，用这些列表写一个展示页面。
 
 ## Config
 你可以在你的webpack里配置packpagejson-loader
